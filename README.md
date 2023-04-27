@@ -1,4 +1,4 @@
-#Housing Market Dynamics
+# Housing Market Dynamics
 
 Mira Antolovich, Kimberly Pierce, Houtan Rasouli, and Donatien Toni
 
